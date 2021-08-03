@@ -1,0 +1,63 @@
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.deps.json
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.dll
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.pdb
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\be\MobileApp.resources.dll
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\de\MobileApp.resources.dll
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\ru\MobileApp.resources.dll
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\uk\MobileApp.resources.dll
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.Locale.Resource.resources
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.Locale.Resource.be.resources
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.Locale.Resource.de.resources
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.Locale.Resource.ru.resources
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.Locale.Resource.uk.resources
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.GenerateResource.cache
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\ProjectDetailPage.xaml.g.cs
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\ProjectPage.xaml.g.cs
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.CoreCompileInputs.cache
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfoInputs.cache
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfo.cs
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\be\MobileApp.resources.dll
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\de\MobileApp.resources.dll
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\ru\MobileApp.resources.dll
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\uk\MobileApp.resources.dll
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.dll
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.pdb
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csprojAssemblyReference.cache
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\IssuePage.xaml.g.cs
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\SprintPage.xaml.g.cs
+D:\University\Other\For N\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\SprintDetailPage.xaml.g.cs
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.deps.json
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.dll
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.pdb
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\be\MobileApp.resources.dll
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\de\MobileApp.resources.dll
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\ru\MobileApp.resources.dll
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\uk\MobileApp.resources.dll
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.Locale.Resource.resources
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.Locale.Resource.be.resources
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.Locale.Resource.de.resources
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.Locale.Resource.ru.resources
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.Locale.Resource.uk.resources
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfoInputs.cache
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfo.cs
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\be\MobileApp.resources.dll
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\de\MobileApp.resources.dll
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\ru\MobileApp.resources.dll
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\uk\MobileApp.resources.dll
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.dll
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.pdb
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\ZoneInfoPage.xaml.g.cs
+C:\Users\Artem\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\ZonesPage.xaml.g.cs

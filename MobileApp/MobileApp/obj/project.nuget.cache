@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "dgSpecHash": "6zcPUcypzYpqame+umXByUM2w1P7Tf0E+MxJjlIhORxhMcTJYbIwfhzGlJAdjS00zeHXHfA336WJleUfLd0Q4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artem\\Desktop\\MobileApp\\MobileApp\\MobileApp\\MobileApp\\MobileApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artem\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\plugin.audiorecorder\\1.1.0\\plugin.audiorecorder.1.1.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\syncfusion.licensing\\18.1.0.46\\syncfusion.licensing.18.1.0.46.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\syncfusion.xamarin.buttons\\18.1.0.46\\syncfusion.xamarin.buttons.18.1.0.46.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\syncfusion.xamarin.core\\18.1.0.46\\syncfusion.xamarin.core.18.1.0.46.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\syncfusion.xamarin.sfautocomplete\\18.1.0.46\\syncfusion.xamarin.sfautocomplete.18.1.0.46.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\syncfusion.xamarin.sfcombobox\\18.1.0.46\\syncfusion.xamarin.sfcombobox.18.1.0.46.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\syncfusion.xamarin.sfdataform\\18.1.0.46\\syncfusion.xamarin.sfdataform.18.1.0.46.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\syncfusion.xamarin.sfmaskededit\\18.1.0.46\\syncfusion.xamarin.sfmaskededit.18.1.0.46.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\syncfusion.xamarin.sfnumerictextbox\\18.1.0.46\\syncfusion.xamarin.sfnumerictextbox.18.1.0.46.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\syncfusion.xamarin.sfnumericupdown\\18.1.0.46\\syncfusion.xamarin.sfnumericupdown.18.1.0.46.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\thrivegmbh.bottomnavigationbar.xf\\1.0.2\\thrivegmbh.bottomnavigationbar.xf.1.0.2.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"ThriveGmbH.BottomNavigationBar.XF 1.0.2\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETStandard,Version=v2.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "ThriveGmbH.BottomNavigationBar.XF",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

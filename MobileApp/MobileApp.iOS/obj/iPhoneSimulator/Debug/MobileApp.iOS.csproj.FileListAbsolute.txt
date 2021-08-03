@@ -1,0 +1,16 @@
+C:\Users\Denys\source\repos\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Denys\source\repos\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Denys\source\repos\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Denys\source\repos\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Denys\source\repos\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Denys\source\repos\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Denys\source\repos\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\MobileApp.iOS.csprojAssemblyReference.cache
+C:\Users\Denys\source\repos\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\MobileApp.iOS.csproj.CoreCompileInputs.cache
+D:\University\6th Sem\ARC\Labs\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\University\6th Sem\ARC\Labs\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\University\6th Sem\ARC\Labs\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\University\6th Sem\ARC\Labs\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+D:\University\6th Sem\ARC\Labs\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\University\6th Sem\ARC\Labs\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\optimized\
+D:\University\6th Sem\ARC\Labs\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\MobileApp.iOS.csprojAssemblyReference.cache
+D:\University\6th Sem\ARC\Labs\MobileApp\MobileApp\MobileApp.iOS\obj\iPhoneSimulator\Debug\MobileApp.iOS.csproj.CoreCompileInputs.cache

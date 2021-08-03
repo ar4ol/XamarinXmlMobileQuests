@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Syncfusion.SfDataForm.XForms.UWP" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Syncfusion.SfDataForm.XForms.UWP">
+				<NamedResource name="Syncfusion.SfDataForm.XForms.UWP.xr.xml" uri="ms-resource://Syncfusion.SfDataForm.XForms.UWP/Files/Syncfusion.SfDataForm.XForms.UWP/Syncfusion.SfDataForm.XForms.UWP.xr.xml">
+					<Candidate type="Path">
+						<Value>Syncfusion.SfDataForm.XForms.UWP\Syncfusion.SfDataForm.XForms.UWP.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Resources">
+					<NamedResource name="DataFormGroupCollapse.png" uri="ms-resource://Syncfusion.SfDataForm.XForms.UWP/Files/Syncfusion.SfDataForm.XForms.UWP/Resources/DataFormGroupCollapse.png">
+						<Candidate type="Path">
+							<Value>Syncfusion.SfDataForm.XForms.UWP\Resources\DataFormGroupCollapse.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DataFormGroupExpander.png" uri="ms-resource://Syncfusion.SfDataForm.XForms.UWP/Files/Syncfusion.SfDataForm.XForms.UWP/Resources/DataFormGroupExpander.png">
+						<Candidate type="Path">
+							<Value>Syncfusion.SfDataForm.XForms.UWP\Resources\DataFormGroupExpander.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://Syncfusion.SfDataForm.XForms.UWP/Files/Syncfusion.SfDataForm.XForms.UWP/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
